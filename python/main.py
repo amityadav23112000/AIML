@@ -96,3 +96,15 @@ print('amit'.upper())
 # n = input("enter no: \n")  by default string  -- so typecast them
 # print(n)
 
+# Function	Description	Example
+# math.sqrt(x)	   Square root	math.sqrt(16) → 4.0
+# math.pow(x, y)	x raised to y	math.pow(2, 3) → 8.0
+# math.factorial(x)	Factorial	math.factorial(5) → 120
+# math.ceil(x)	    Round up	math.ceil(2.3) → 3
+# math.floor(x)	    Round down	math.floor(2.7) → 2
+# math.sin(x)	    Sine (x in radians)	math.sin(math.pi/2) → 1.0
+# math.cos(x)	    Cosine	math.cos(0) → 1.0
+# math.tan(x)	    Tangent	math.tan(math.pi/4) → 1.0
+# math.log(x)	    Natural log	math.log(2.71828) → ~1.0
+# math.log10(x)   	Base-10 log	math.log10(100) → 2.0
+# math.exp(x)	    e^x	math.exp(1) → 2.71828...
