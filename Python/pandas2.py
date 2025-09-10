@@ -21,3 +21,6 @@ Priya,22,Pune,55000
 # Treat the string as a file
 df = pd.read_csv(StringIO(csv_data), usecols=['Name', 'City'])
 print(df)
+print(type(df))
+print(df.info())
+
